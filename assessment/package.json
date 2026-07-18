@@ -1,0 +1,16 @@
+{
+  "name": "xnft_preview_card_component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "cypress": "^13.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
