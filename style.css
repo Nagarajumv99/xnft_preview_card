@@ -44,7 +44,7 @@ body {
     cursor: pointer;
   }
   
-  .card__title {
+  .card__title h1{
     font-size: 1.2rem;
     margin: 15px 0;
   }
